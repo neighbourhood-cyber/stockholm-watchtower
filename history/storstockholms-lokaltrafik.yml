@@ -1,7 +1,7 @@
 url: https://sl.se/privat/min-profil
-status: up
-code: 200
-responseTime: 1379
-lastUpdated: 2026-01-07T15:11:46.723Z
+status: down
+code: 403
+responseTime: 604
+lastUpdated: 2026-01-07T15:55:18.940Z
 startTime: 2023-05-29T15:00:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
