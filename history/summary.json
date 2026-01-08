@@ -45,7 +45,7 @@
     "timeMonth": 176,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2026-01-08": 630,
+      "2026-01-08": 702,
       "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
@@ -517,9 +517,9 @@
     "url": "https://seb.se/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "skandinaviska-enskilda-banken-ab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -528,6 +528,8 @@
     "timeWeek": 485,
     "timeMonth": 540,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-08": 0
+    }
   }
 ]
