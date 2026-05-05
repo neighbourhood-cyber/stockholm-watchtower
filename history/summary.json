@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 2200,
-    "timeDay": 1898,
-    "timeWeek": 1570,
+    "time": 2197,
+    "timeDay": 1371,
+    "timeWeek": 1545,
     "timeMonth": 1666,
-    "timeYear": 2072,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2026-03-15": 30,
       "2026-02-22": 18,
@@ -41,12 +41,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 173,
-    "timeDay": 78,
-    "timeWeek": 176,
-    "timeMonth": 199,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 201,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-05-04": 157,
+      "2026-05-05": 150,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -409,8 +410,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -424,11 +424,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 2089,
-    "timeDay": 1625,
-    "timeWeek": 1914,
-    "timeMonth": 1849,
-    "timeYear": 1944,
+    "time": 2088,
+    "timeDay": 1914,
+    "timeWeek": 1946,
+    "timeMonth": 1859,
+    "timeYear": 1943,
     "dailyMinutesDown": {
       "2026-01-15": 26,
       "2025-08-26": 40,
@@ -442,15 +442,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "karolinska-institutet",
     "status": "up",
-    "uptime": "79.29%",
+    "uptime": "79.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 701,
-    "timeWeek": 739,
-    "timeMonth": 784,
+    "time": 834,
+    "timeDay": 649,
+    "timeWeek": 763,
+    "timeMonth": 786,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2025-05-06": 31
@@ -468,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 944,
-    "timeDay": 739,
-    "timeWeek": 801,
-    "timeMonth": 786,
+    "timeDay": 652,
+    "timeWeek": 747,
+    "timeMonth": 783,
     "timeYear": 905,
     "dailyMinutesDown": {
       "2025-05-09": 43
@@ -488,10 +488,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1048,
-    "timeDay": 1273,
-    "timeWeek": 1085,
-    "timeMonth": 1088,
-    "timeYear": 1128,
+    "timeDay": 845,
+    "timeWeek": 1084,
+    "timeMonth": 1080,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2026-03-23": 53,
       "2026-03-20": 37,
@@ -513,8 +513,7 @@
       "2025-06-26": 26,
       "2025-06-20": 24,
       "2025-06-05": 21,
-      "2025-05-29": 39,
-      "2025-05-05": 20
+      "2025-05-29": 39
     }
   },
   {
@@ -529,10 +528,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 650,
-    "timeDay": 406,
-    "timeWeek": 617,
-    "timeMonth": 589,
-    "timeYear": 630,
+    "timeDay": 561,
+    "timeWeek": 559,
+    "timeMonth": 584,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2026-02-06": 35,
       "2026-01-08": 86
