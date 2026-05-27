@@ -46,7 +46,7 @@
     "timeMonth": 183,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-05-27": 211,
+      "2026-05-27": 512,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -441,7 +441,7 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "karolinska-institutet",
     "status": "up",
-    "uptime": "79.72%",
+    "uptime": "79.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -458,19 +458,19 @@
     "url": "https://polisen.se/utsatt-for-brott/polisanmalan/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "polismyndigheten",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "85.45%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "64.53%",
+    "uptimeWeek": "94.93%",
+    "uptimeMonth": "98.83%",
+    "uptimeYear": "99.90%",
     "time": 922,
-    "timeDay": 907,
-    "timeWeek": 823,
+    "timeDay": 856,
+    "timeWeek": 821,
     "timeMonth": 788,
     "timeYear": 892,
     "dailyMinutesDown": {
-      "2026-05-27": 210
+      "2026-05-27": 511
     }
   },
   {
